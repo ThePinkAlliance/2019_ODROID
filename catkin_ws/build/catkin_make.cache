@@ -1,0 +1,2 @@
+python_test:vidsrv:web_video_server
+-DCATKIN_DEVEL_PREFIX=/home/odroid/Documents/FRC_2019/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/Documents/FRC_2019/catkin_ws/install -G Unix Makefiles

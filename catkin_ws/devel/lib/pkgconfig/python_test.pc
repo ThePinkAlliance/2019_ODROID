@@ -1,0 +1,8 @@
+prefix=/home/odroid/Documents/FRC_2019/catkin_ws/devel
+
+Name: python_test
+Description: Description of python_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/odroid/Documents/FRC_2019/catkin_ws/devel/lib 
+Requires: 
